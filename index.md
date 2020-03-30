@@ -2,6 +2,6 @@
 
 <h1>My name is Mark Pretty</h1>
 	
-	<h1>About Me</h1>
+	<h2>About Me</h2>
 		
 		
