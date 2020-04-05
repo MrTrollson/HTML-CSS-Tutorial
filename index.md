@@ -1,5 +1,5 @@
 ## Welcome to my website
-<link rel="stylesheet" type="text/css" href="https://github.com/MrTrollson/My-Project/blob/master/style.css">
+<link rel="stylesheet" type="text/css" href="index.css" />
 
 <h1>My name is Mark Pretty</h1>
 	
